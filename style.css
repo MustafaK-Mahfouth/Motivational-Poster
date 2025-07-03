@@ -1,0 +1,42 @@
+ body {
+    background-color: black;
+ }
+
+ #div1 {
+   align-items: center;
+   height: 400px;
+   width: 400px;
+  padding: 20px;
+  margin: 50px 0px 50px 200px;
+ border: 2px solid white;
+
+ }
+
+ #div2 {
+
+   
+   h1 {
+      color: white; 
+      margin: 0px 0px 20px 270px;
+      
+   }
+   
+   #p1 {
+      color: white; 
+      margin: 0px 0px 0px 135px;
+      
+   }
+
+   #p2 {
+      color: white; 
+      margin: 0px 0px 0px 275px;
+      
+   }
+
+   #p3 {
+      color: white; 
+      margin: 0px 0px 0px 175px; 
+       
+   }
+   
+ }
